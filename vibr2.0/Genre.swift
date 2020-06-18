@@ -9,8 +9,6 @@
 import UIKit
 import MediaPlayer
 
-var nowPlayingItem: MPMediaItem?{get musicPlayer set MPMediaLibrary}
-
 class Genre: UIViewController {
     var musicPlayer = MPMusicPlayerController.applicationMusicPlayer
     override func viewDidLoad() {
