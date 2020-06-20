@@ -7,7 +7,7 @@
 
 import UIKit
 import MediaPlayer
-// I'm not using AVAudioplayer
+// I'm not using AVAudioPlayer
 
 
 class Genre: UIViewController {
