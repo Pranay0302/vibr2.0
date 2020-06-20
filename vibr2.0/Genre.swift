@@ -4,10 +4,11 @@
 //
 //  Created by pranay andra on 25/04/20.
 //  Copyright © 2020 pranay andra. All rights reserved.
-//
 
 import UIKit
 import MediaPlayer
+// I'm not using AVAudioplayer
+
 
 class Genre: UIViewController {
     var musicPlayer = MPMusicPlayerController.applicationMusicPlayer
